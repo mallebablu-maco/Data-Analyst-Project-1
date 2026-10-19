@@ -17,7 +17,7 @@ A set of beginner-to-intermediate data projects built with Python, starting with
 I cleaned a real dataset of 5,847 used car listings and explored it with charts to find out which factors matter most. The full analysis is in [notebooks/01_eda.ipynb](notebooks/01_eda.ipynb).
 
 ### Dataset
-- Kaggle, *Used Car Prices* by Sujay R, originally sourced from Cars24 (Apache 2.0 license).
+- Kaggle, [*Used Car Prices*](https://www.kaggle.com/datasets/sujay1844/used-car-prices) by Sujay R, originally sourced from Cars24 (Apache 2.0 license).
 - 5,847 cars, 14 columns: name, city, year, kilometers driven, fuel type, transmission, owner type, mileage, engine size, power, seats, new price and resale price.
 - `Price` is in lakhs of rupees.
 
